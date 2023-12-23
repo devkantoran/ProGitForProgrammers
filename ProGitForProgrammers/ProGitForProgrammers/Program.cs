@@ -11,7 +11,8 @@ namespace ProGitForProgrammers
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("I just added this is VisualStudio");
+            Console.WriteLine("I just added this in VisualStudio");
+            Console.WriteLine("I just added this in VSCode on CommandLine repo");
         }
     }
 }
