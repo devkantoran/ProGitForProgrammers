@@ -13,7 +13,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this in VisualStudio");
             Console.WriteLine("I just added this in VSCode on CommandLine repo");
-            Console.WriteLine("I just added this in VSCode on WSL repo");
+            Console.WriteLine("I just edited this in GitHub Editor");
         }
     }
 }
