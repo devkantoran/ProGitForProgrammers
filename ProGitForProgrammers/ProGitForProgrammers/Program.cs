@@ -14,6 +14,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in VisualStudio");
             Console.WriteLine("I just added this in VSCode on CommandLine repo");
             Console.WriteLine("I just edited this in GitHub Editor");
+            Console.WriteLine("I just added this in GitHub Editor");
         }
     }
 }
